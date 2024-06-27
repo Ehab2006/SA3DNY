@@ -24,9 +24,9 @@ const config = {
   authRequired: false,
   auth0Logout: true,
   secret: 'UAsf_FPrmm0TwOzOqvGy6opsZy_vEEYqSazACIksQqd2iyrZNVT9Q0ZAgI91NUBA',
-  baseURL: Url,
-  clientID: 'kr34yxHqQRSdDojPUrTOTXsqZA8TKjyt',
-  issuerBaseURL: 'https://dev-s2d5hsgmg3na6xuq.eu.auth0.com'
+  baseURL: 'https://sa3dny.onrender.com',
+  clientID: 'Z0PMtBkK7GPZA8LSdw13AHTkrxanfrsw',
+  issuerBaseURL: 'https://dev-gs3esnediwuf4xzz.us.auth0.com'
 };
 
 // auth router attaches /login, /logout, and /callback routes to the baseURL

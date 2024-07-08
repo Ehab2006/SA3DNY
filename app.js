@@ -24,7 +24,7 @@ const config = {
   authRequired: false,
   auth0Logout: true,
   secret: 'UAsf_FPrmm0TwOzOqvGy6opsZy_vEEYqSazACIksQqd2iyrZNVT9Q0ZAgI91NUBA',
-  baseURL: 'https://sa3dny.onrender.com' || "https://sa3dny-production.up.railway.app/",
+  baseURL:"https://sa3dny-production.up.railway.app/",
   clientID: 'Z0PMtBkK7GPZA8LSdw13AHTkrxanfrsw',
   issuerBaseURL: 'https://dev-gs3esnediwuf4xzz.us.auth0.com'
 };
